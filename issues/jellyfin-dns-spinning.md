@@ -8,7 +8,7 @@
 - Local IP access works fine on all machines
 - External machines also affected intermittently
 
-## What We Ruled Out
+## What I Ruled Out
 
 - **DNS resolution** — `dig yourname.duckdns.org` returned the correct public IP. DNS was working fine.
 - **IP mismatch** — DuckDNS was up to date and pointing at the correct public IP.
